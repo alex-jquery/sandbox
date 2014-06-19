@@ -1,0 +1,12 @@
+{
+  "name": "scraping",
+  "description": "scraping website application",
+  "version": "0.0.1",
+  "author": "alex davis <alex2006hw@gmail.c>",
+  "private": true,
+  "engines": { "node": ">= 0.6.0" },
+  "dependencies": {
+    "request": "2.36.x",
+    "cheerio": "0.17.x"
+  }
+}
